@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Rechner</string>
+    <string name="weight_kg">Gewicht (kg)</string>
+    <string name="height_cm">Höhe (cm)</string>
+    <string name="result">Ergebnis</string>
+    <string name="bmi_result">Der BMI beträgt %1$.1f</string>
+    <string name="weight_1">Starkes Untergewicht</string>
+    <string name="weight_2">Mäßiges Untergewicht</string>
+    <string name="weight_3">Leichtes Untergewicht</string>
+    <string name="weight_4">Normalgewicht</string>
+    <string name="weight_5">"Präadipositas "</string>
+    <string name="weight_6">Adipositas Grad I</string>
+    <string name="weight_7">Adipositas Grad II</string>
+    <string name="weight_8">Adipositas Grad III</string>
+    <string name="weight_9">Adipositas Grad IV</string>
+    <string name="weight_10">Adipositas Grad V</string>
+    <string name="weight_11">Adipositas Grad VI</string>
+    <string name="menu_about">Über</string>
+    <string name="menu_moreinfo">Mehr Informationen</string>
+    <string name="error">Fehler</string>
+    <string name="about_str">Diese App wurde von supergeorg im Jahr 2018 entwickelt.</string>
+    <string name="about_ok">Danke</string>
+    <string name="website_bmi">https://de.wikipedia.org/wiki/Body-Mass-Index</string>
+</resources>

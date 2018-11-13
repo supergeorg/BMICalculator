@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="result">Result</string>
+    <string name="bmi_result">The BMI is %1$.1f</string>
+    <string name="weight_1">Severely underweight</string>
+    <string name="weight_2">Underweight</string>
+    <string name="weight_3">Underweight</string>
+    <string name="weight_4">Normal (healthy weight)</string>
+    <string name="weight_5">Overweight</string>
+    <string name="weight_6">Obese Class I (Moderately obese)</string>
+    <string name="weight_7">Obese Class II (Severely obese)</string>
+    <string name="weight_8">Obese Class III (Very severely obese)</string>
+    <string name="weight_9">Obese Class IV (Morbidly Obese)</string>
+    <string name="weight_10">Obese Class V (Super Obese)</string>
+    <string name="weight_11">Obese Class VI (Hyper Obese)</string>
+    <string name="menu_about">About</string>
+    <string name="menu_moreinfo">More Information</string>
+    <string name="error">Error</string>
+    <string name="about_str">This app was developed by supergeorg in 2018.</string>
+    <string name="about_ok">Thanks</string>
+    <string name="website_bmi">https://en.wikipedia.org/wiki/Body_mass_index</string>
+</resources>
