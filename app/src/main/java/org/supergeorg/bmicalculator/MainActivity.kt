@@ -1,17 +1,17 @@
 package org.supergeorg.bmicalculator
 
 import android.app.AlertDialog
-import android.support.v7.app.AppCompatActivity
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
+import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.math.pow
-import android.content.Intent
-import android.net.Uri
 
 
 val resultMap = mapOf(16.0 to R.string.weight_1,17.0 to R.string.weight_2,
